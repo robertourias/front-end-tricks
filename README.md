@@ -2,6 +2,7 @@
 
 Pasta  | descrição
 ------------- | -------------
+animated-logo  | Logo animado com CSS
 animated-svg-background  | Uso de um SVG animado como background
 animation-keyframe-skew  | Usando o animation com keyframe
 border-gradient  | Cor gradiente nas bordas
