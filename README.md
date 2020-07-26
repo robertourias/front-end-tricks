@@ -12,4 +12,5 @@ infinite-burger  | Backgound com repeater
 multiple-shadows  | Multiplos shadows no elemento
 parallax-effect  | Background com parallax
 parallax-effect-2  | Background com parallax
+parallax-effect-3  | Background com parallax
 text-shadow  | uso do text-shadow
