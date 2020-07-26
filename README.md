@@ -10,4 +10,5 @@ border-image  | Uso de imagem nas bordas
 google-logo  | Logo do Google com CSS
 infinite-burger  | Backgound com repeater
 multiple-shadows  | Multiplos shadows no elemento
+parallax-effect  | Background com parallax
 text-shadow  | uso do text-shadow
